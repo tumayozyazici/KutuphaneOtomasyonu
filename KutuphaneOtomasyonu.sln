@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneOtomasyonu", "KutuphaneOtomasyonu\KutuphaneOtomasyonu.csproj", "{CA95C30F-E52F-43DA-B555-2C3F5A4EDF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneCalistirUI", "KutuphaneCalistirUI\KutuphaneCalistirUI.csproj", "{046EF208-3F63-4545-BD8F-9AD0A30173B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA95C30F-E52F-43DA-B555-2C3F5A4EDF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA95C30F-E52F-43DA-B555-2C3F5A4EDF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA95C30F-E52F-43DA-B555-2C3F5A4EDF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA95C30F-E52F-43DA-B555-2C3F5A4EDF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046EF208-3F63-4545-BD8F-9AD0A30173B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046EF208-3F63-4545-BD8F-9AD0A30173B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046EF208-3F63-4545-BD8F-9AD0A30173B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046EF208-3F63-4545-BD8F-9AD0A30173B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A7C787-300F-4B0D-A3AE-5F5774DAF5D6}
+	EndGlobalSection
+EndGlobal
